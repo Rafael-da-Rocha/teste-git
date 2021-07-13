@@ -2,6 +2,16 @@
 
 Um bot de Ping Pong para o Discord
 
-## Topico 1
+## Objetivo
 
-## Topico 2
+Criar um bot de chat para o Discord
+
+## Tecnologias Usadas
+ 
+ * JavaScript
+ * Discord.js
+ * Node.js 
+
+## Compatibilidade
+
+Com todos os sistemas Operacionais
