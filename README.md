@@ -1,6 +1,6 @@
-# teste-git
+# PingPongBot
 
-Esse um comentário no meu README
+Um bot de Ping Pong para o Discord
 
 ## Topico 1
 
